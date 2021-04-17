@@ -1,0 +1,10 @@
+name: "Michael Burgess Portfolio"
+navbar:
+  title: "Michael Burgess Portfolio"
+  left:
+    - text: "About Me"
+      href: index.html
+    - text: "Craft Beer Case Study"
+      href: Case-Study-Markdown.html
+    - text: "Employee Attrition Case Study"
+      href: Case-Study-2.html
